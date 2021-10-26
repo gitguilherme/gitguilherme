@@ -4,7 +4,6 @@
 
    <img height="130em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitguilherme&layout=compact&langs_count=7&theme=dracula"/>
    
-##### BIO
 
 ⚙️ I use daily: `.js`, `.html`, `.css`, `.psd`, `.ai`<br>
 🌱 Learning all the time <br>
